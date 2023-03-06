@@ -22,7 +22,12 @@
 2-reusable of components by using props
 3-splitting components into multiple components
 4-passing data between children and parent component,but data be enclosed within opening and closing tag
-5-how to organize component files.
+5-how to organize component files(like ui files in the ui folder setting correct path in the jsx file).
+
+6-03-2023
+
+1-how to pass a parameter to an event handler(via function)
+
 
 
 
